@@ -26,6 +26,3 @@ Bibliography:
 5. Hobsbawm, E. J. (Eric J.). Nations and Nationalism Since 1780: Programme, Myth, Reality. Cambridge University Press, 1992.
 6. Khalaf, Issa. Politics in Palestine: Arab Factionalism and Social Disintegration, 1939-1948. SUNY Press, September 1991.
 7. Sorek, Tamir. “Palestinian Nationalism Has Left the Field: A Shortened History of Arab Soccer in Israel.” International Journal of Middle East Studies 35, no. 3 (2003): 417–37. http://www.jstor.org/stable/3880202.
-
-
-[Link](url) and ![Image](src)
