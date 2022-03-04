@@ -19,7 +19,7 @@ _… the imagined community of millions seems more real as a team of eleven name
 
 In the quote above, Hobsbawm emphasizes the importance of national identity through sports. In 20th century Palestine, this phenomenon rang true. The emergence of Zionist-dominated soccer associations represented the surge of Zionist nationalism in the Palestine Mandate at that time. The majority Zionist national team represented a new era for Palestine. Further, the lack of Arab representation demonstrated the systemic oppression of Arabs politically, economically, and socially. Even more, the PFA represented the suppression of the Arab-Palestenian national identity. While Zionists controlled the PFA, Arabs remained on the fringes. In fact, some Arab players downplayed their nationalism to play unoticed in Zionist leagues. The new sports initiatives led by Arabs symbolized their attempt to regain a sense of identity. The PSA, GPSA, Arab sports festivals, and the naming of teams after Muslim leaders were all examples of this. 
 
-###Bibliography:
+### Bibliography:
 1. Khalidi, Issam. "Coverage of sports news in Filastin, 1911-1948." Soccer in the Middle East, Routledge, 2015.
 2. Khalidi, Issam. Sports and Aspirations: Football in Palestine, 1900– 1948. Jerusalem Quarterly #58, Spring, 2014.
 3. Fillastin, 17 June 1945.
