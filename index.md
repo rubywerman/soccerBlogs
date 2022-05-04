@@ -16,6 +16,9 @@ Deerfield made national headlines in November of 1959 when residents resisted a 
 
 Deerfield residents succeeded in blocking the housing development and a park was built instead. A park I grew up playing soccer at. 
 
+![Image](images/mitchellpark.png)
+ _Source: Deerfield Patch_
+
 It’s no surprise that youth soccer is a popular sport in the suburbs of Chicago. After all, youth soccer thrives in affluent suburban neighborhoods. Suburbs have an abundance of fields and parents available to volunteer, coach, and drive their kids to practice (Johnson, 1985). It’s clear that suburban parents are engaged in their childrens’ extracurriculars. This can be attributed to their wealth– most of these suburban mothers don’t need to work to support their family. Hence the term “soccer mom,” which was popularized in the 1996 presidential elections to describe the demographic of married, suburban, upper/middle class women. 
 
 The continued growth of suburbs following the initial White Flight 1960s, 1970s, and 1980s can be attributed to the desegregation of public schools and neoliberal policies that pushed white families out of cities. 
@@ -30,11 +33,13 @@ The focus on soccer in suburban areas is partially fueled by the desire for coll
 
 An extreme example of this parental interference is the 2019 college admissions bribery scandal, code named Operation Varsity Blues. A former University of California, Los Angeles soccer coach was sentenced to eight months in prison after taking $200,000 in bribes to help two students secure false spots on the soccer team (Raymond, 2021). This gross display of wealth is the outcome of extreme wealth inequality and the disastrous state of the United States education system. 
 
-### Bibliography:Willett, Amani, and Tiffany Jones. A Parallel Road. Overlapse, 2021. 
-1. Johnson, Dirk. “In the Suburbs, Soccer Is Becoming No. 1 Sport.” The New York Times, The New York Times, 25 June 1985, https://www.nytimes.com/1985/06/25/nyregion/in-the-suburbs-soccer-is-becoming-no-1-sport.html. 
-2. Simms, A., & Talbert, E. (2019). Racial Residential Segregation and School Choice: How a Market-Based Policy for K-12 School Access Creates a “Parenting Tax” for Black Parents. Phylon (1960-), 56(1), 33–57. https://www.jstor.org/stable/26743830
-3. Benoit, Andrew. “Disparities across Districts: How Illinois School Funding Causes Inequities in Learning.” Drops of Ink, 14 May 2021, https://www.lhsdoi.com/22179/features/disparities-across-districts-how-illinois-school-funding-causes-inequities-in-learning/. 
-4. Raymond, Nate. “Former UCLA Soccer Coach Gets 8 Months in Prison in U.S. College Scandal.” Reuters, Thomson Reuters, 19 Mar. 2021, https://www.reuters.com/article/us-usa-education-cheating/former-ucla-soccer-coach-gets-8-months-in-prison-in-u-s-college-scandal-idUSKBN2BB2IX. 
+### Bibliography:
+1. Willett, Amani, and Tiffany Jones. A Parallel Road. Overlapse, 2021. 
+2. Johnson, Dirk. “In the Suburbs, Soccer Is Becoming No. 1 Sport.” The New York Times, The New York Times, 25 June 1985, https://www.nytimes.com/1985/06/25/nyregion/in-the-suburbs-soccer-is-becoming-no-1-sport.html. 
+3. Simms, A., & Talbert, E. (2019). Racial Residential Segregation and School Choice: How a Market-Based Policy for K-12 School Access Creates a “Parenting Tax” for Black Parents. Phylon (1960-), 56(1), 33–57. https://www.jstor.org/stable/26743830
+4. Benoit, Andrew. “Disparities across Districts: How Illinois School Funding Causes Inequities in Learning.” Drops of Ink, 14 May 2021, https://www.lhsdoi.com/22179/features/disparities-across-districts-how-illinois-school-funding-causes-inequities-in-learning/. 
+5. Raymond, Nate. “Former UCLA Soccer Coach Gets 8 Months in Prison in U.S. College Scandal.” Reuters, Thomson Reuters, 19 Mar. 2021, https://www.reuters.com/article/us-usa-education-cheating/former-ucla-soccer-coach-gets-8-months-in-prison-in-u-s-college-scandal-idUSKBN2BB2IX. 
+6. DeGrechie, Eric. “Park Board Votes to Rename Mitchell Park.” Deerfield, IL Patch, Patch, 20 June 2020, https://patch.com/illinois/deerfield/park-board-votes-rename-mitchell-park. 
 
 
 ## Soccer in Palestine During the First Half of the 20th Century
