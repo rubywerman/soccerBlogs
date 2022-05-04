@@ -22,7 +22,7 @@ The continued growth of suburbs following the initial White Flight 1960s, 1970s,
 
 As wealthy families moved out of cities, so did their tax dollars. This change led to stark inequalities within park districts and public schools in urban and suburban areas. Simms and Talbert describe this as follows: 
 
-_… Whites’ decisions about where to live and their control of local governments in the communities in which they reside enable them to reproduce racial residential segregation and their preference for majority-White schools without enacting race-specific laws (Simms, A. & Talbert, E., 2019). _
+_… Whites’ decisions about where to live and their control of local governments in the communities in which they reside enable them to reproduce racial residential segregation and their preference for majority-White schools without enacting race-specific laws (Simms, A. & Talbert, E., 2019). …_
 
 Property taxes are the primary source of funding for school districts. In Illinois, property taxes account for around two-thirds of overall funding (Benoit, 2021). This means that higher-valued areas will have better access to resources. Specifically, redlined neighborhoods and sundown towns will receive more funding than diverse urban areas. 
 
