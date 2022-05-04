@@ -33,6 +33,8 @@ The focus on soccer in suburban areas is partially fueled by the desire for coll
 
 An extreme example of this parental interference is the 2019 college admissions bribery scandal, code named Operation Varsity Blues. A former University of California, Los Angeles soccer coach was sentenced to eight months in prison after taking $200,000 in bribes to help two students secure false spots on the soccer team (Raymond, 2021). This gross display of wealth is the outcome of extreme wealth inequality and the disastrous state of the United States education system. 
 
+The wealth inequality and defunding of public schools has perpetuated soccer's reputation as a pay-to-play, white sport. More funding and affordable housing is necessary to transform soccer in the United States to the sport that is loved and appreciated throughout the world. Soccer should be a symbol of equality and opportunity, not SUVs and college bribes. 
+
 ### Bibliography:
 1. Willett, Amani, and Tiffany Jones. A Parallel Road. Overlapse, 2021. 
 2. Johnson, Dirk. “In the Suburbs, Soccer Is Becoming No. 1 Sport.” The New York Times, The New York Times, 25 June 1985, https://www.nytimes.com/1985/06/25/nyregion/in-the-suburbs-soccer-is-becoming-no-1-sport.html. 
